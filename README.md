@@ -1,2 +1,2 @@
 #Gitting Some Practice
-## James Horton
+## James-Horton
